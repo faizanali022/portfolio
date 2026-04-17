@@ -15,13 +15,6 @@ I’m a software developer focused on building clean, reliable, and user-centric
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code, Postman
 
-## 📌 Featured Work
-> Add your best 2–4 projects here with short impact-focused descriptions.
-
-- **Project Name 1** — one-line summary of the problem solved and outcome.
-- **Project Name 2** — one-line summary of the problem solved and outcome.
-- **Project Name 3** — one-line summary of the problem solved and outcome.
-
 ## 📈 GitHub Stats
 ![GitHub contribution statistics showing commits and activity](https://github-readme-stats.vercel.app/api?username=faizanali022&show_icons=true&theme=default)
 ![Most used programming languages in repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanali022&layout=compact&theme=default)
