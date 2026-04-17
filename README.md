@@ -18,6 +18,7 @@ I’m a software developer focused on building clean, reliable, and user-centric
 ## 📈 GitHub Stats
 ![GitHub contribution statistics showing commits and activity](https://github-readme-stats.vercel.app/api?username=faizanali022&show_icons=true&theme=default)
 ![Most used programming languages in repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanali022&layout=compact&theme=default)
+_Stats cards are provided by an external service and may not load in restricted network environments._
 
 ## 📫 Connect With Me
 - GitHub: [@faizanali022](https://github.com/faizanali022)
