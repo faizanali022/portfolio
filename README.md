@@ -28,8 +28,7 @@ I’m a software developer focused on building clean, reliable, and user-centric
 
 ## 📫 Connect With Me
 - GitHub: [@faizanali022](https://github.com/faizanali022)
-- LinkedIn: *(add your profile link)*
-- Portfolio: *(add your website link)*
+- I’m open to collaborating on meaningful projects and developer opportunities.
 
 ---
 *Thanks for visiting my profile. Feel free to explore my repositories and connect!*
